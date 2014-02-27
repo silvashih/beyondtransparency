@@ -17,11 +17,20 @@ permalink: "/part-1/ashvilles-open-data-journey-pragmatics-policy-and-participat
 
 Much of the open data conversation centers on policy, politics, or solving community problems. These are great—and needed—beginning and end points, but there is an important middle point that raises two questions: How do we produce open data? And how can we get open data to be a part of the government process?
 
+大部分關於開放資料的討論，都集中在政策、政治、或解決社群問題。這些討論很重要，也必需從頭到尾關注，但過程中還有個重要面向：我們如何產出開放資料？以及，我們如何把開放資料融入政府決策過程中？
+
 Today, local, state, and federal governments generally have to go an extra mile to convert “open records” into what we would recognize as “open data.” This essentially means open records that are presented in a convenient, automated, and self-service format.
+
+今天，不論地方、州、和聯邦政府，都必須付出額外的努力去把「公開紀錄（open record）」轉換成「公開資料（open data）」，這意味著要把公開紀錄轉成便捷、自動化以及標準化格式。
 
 That extra mile is a tough nut. For all of the benefits of open data, this innovation also creates problems along the journey that make it easy for detractors to undermine open data efforts—think the benefits of social media versus Facebook addiction.
 
+這一步就是個難關。公開資料除了帶來利益之外，在推動這項創新運動的路上，很容易因為一些挑戰而侵蝕公開資料的力量，就像社群媒體帶來的正面影響，但同時產生臉書上癮問題。
+
 For example, legislators passing open records laws might not have thoroughly contemplated that these records would be generally available—instantly—in near-real-time to anyone who requests that data. Is it OK to distribute a list of everyone who holds a pistol permit? Open records laws in North Carolina, where I live, seemed to imply “yes,” but a local journalist got into fairly hot water when he planned to post the list and demanded that a sheriff provide these records in accordance with the law (Henderson and Steele, 2013).
+
+這邊所謂的挑戰，例如當立法者通過開放紀錄相關法律時，可能沒想到，當任何公民有使用公開記錄的需求時，應該能立即取得。如果去列一張清單，羅列誰去掌握這些紀錄入口，這麼做是對的嗎？
+
 
 What about the general freak out that government employees have when their salaries are published, in time-honored tradition, once a year in the local papers? Imagine the drama at any business when real-time salaries are publicly available for all employees. Someone inevitably ends up asking, “Why is Jane making a thousand dollars more a month than me?”
 
